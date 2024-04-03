@@ -10,6 +10,7 @@ Kelompok:
   ```
   apt update && apt upgrade
   apt install git python
+  git clone https://github.com/afrizalwahyuadi66/TUGAS_Algoritma-2.git
   ```
 
 # Tutorial Use
