@@ -1,9 +1,9 @@
 # Tugas UTS
 Kelompok:
 
- * Afrizal Wahyu Adi Putra    (11230070)
- * Nadia Zahira Sofa          (11230056)
- * Sifa                       (112300??)
+ * Afrizal Wahyu Adi Putra/t    (11230070)
+ * Nadia Zahira Sofa/t          (11230056)
+ * Syifa Susila Pratami/t(112300??)
 
 # Installation for Linux or Termux
 
