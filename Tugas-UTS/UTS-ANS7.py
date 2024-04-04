@@ -32,8 +32,8 @@ logo = (
     "\033		    	Tugas UTS Algoritma 2\n\n"
                                                                                                                                                                      
     "\033	[91m 1. Afrizal Wahyu Adi Putra\t 11230070\n"
-    "\033  	 2. Nadia\t 112300?? \n"
-    "\033          3. Syifa\t 112300?? \n"
+    "\033  	 2. Nadia Zahira Sofa\t\t 11230056 \n"
+    "\033          3. Syifa Susila Pratama\t 11230068 \n"
     "\033[0m"
 )
 #---------------------------------------------------------------------------------------
