@@ -3,7 +3,7 @@
  # INPUT  : Memasukan angka dari 0-9
  # PROSES : Menampilkan teks dari angka 0-9 tidak boleh lebih dan kurang
  # OUTPUT : Teks dari angka yang kita input jika lebih/kurang output akan 
-		menampilkan teks "Salah entri: ketik bilangan 0..9"
+ #		menampilkan teks "Salah entri: ketik bilangan 0..9"
 # -------------------------------------------------------------------------
 
 # ALGORITMA----------------------------------------------------------------
